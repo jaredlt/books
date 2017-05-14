@@ -38,6 +38,6 @@ accepts. If you don’t recurse far enough, you’re just talking to yourself.
 
 In hunter-gatherer tribes, all knowledge was effectively universal. Knowledge was passed down (inherited) by speech and memory. All members of the tribe knew the same thing. Public, universal knowledge. Thus if any new knowledge occured, everyone was only _one inferential step_ away from knowing it. If you discover a new oasis, you don't need to explain what an oasis is, why it's a good idea to drink water, how to walk etc. All these concepts are known by everyone so you don't have to explain them. All you have to do is explain where the new oasis is.
 
-In modern society, with many more concepts and disciplines no one has universal knowledge and some concepts may be hundreds of inferential steps away from a universally shared background premise eg. Quantum physics to a layman.
+In modern society, with many more concepts and disciplines, no one has universal knowledge and some concepts may be hundreds of inferential steps away from a universally shared background premise eg. Quantum physics to a layman.
 
 If explaining a concept you must ensure you work _from_ the shared knowledge of your audience and build up the concept step by step.
