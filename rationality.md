@@ -22,3 +22,11 @@ Planning Falacy. People think they can plan :/ People naturally imagine everythi
 There is a good debiasing heuristic to solve the planning fallacy, which is to use an "outside view" instead of an "inside view". The inside view is what we usually consider 'planning'. The where, when, how of the unique features of the task to complete. The outside view ignores everything that is unique about the project (which seems counterintuitive - the more detailed and tailored the planning, the more accurate, right?) but produces far better results.
 
 "If you're doing something _broadly_ similar to a reference class of previous projects. Just ask how long similar projects have tkane in the past, without considering _any_ of the spcial properties of this project. You'll get back an answer that soudns hideously long, and clearly reflects no understanding of the special reasons why this particular task will take less time. This answer is true. Deal with it."
+
+> the illusion of transparency: We always know what we mean by our words, and so we expect others to know it
+too
+
+When we communicate, all we produce are our words. But what we mean by the words we say are guided by the grand knowledge inside our heads of what we really meant. All the other party gets is our words. And they must interpret the full meaning from those words alone. 
+Ambiguous sentence example: The man is chasing a woman on a bicycle
+TL;DR When you say something and get frustrated that someone doesn't understand exactly what you mean, it's probably your fault! :)
+Closely related to hindsight bias. Also, the curse of knowledge.
